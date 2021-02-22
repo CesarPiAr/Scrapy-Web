@@ -1,0 +1,17 @@
+D:\Aplicaciones General\RastreadorWeb\Rastreador.Demo\bin\Debug\netcoreapp3.1\Rastreador.Demo.exe
+D:\Aplicaciones General\RastreadorWeb\Rastreador.Demo\bin\Debug\netcoreapp3.1\Rastreador.Demo.deps.json
+D:\Aplicaciones General\RastreadorWeb\Rastreador.Demo\bin\Debug\netcoreapp3.1\Rastreador.Demo.runtimeconfig.json
+D:\Aplicaciones General\RastreadorWeb\Rastreador.Demo\bin\Debug\netcoreapp3.1\Rastreador.Demo.runtimeconfig.dev.json
+D:\Aplicaciones General\RastreadorWeb\Rastreador.Demo\bin\Debug\netcoreapp3.1\Rastreador.Demo.dll
+D:\Aplicaciones General\RastreadorWeb\Rastreador.Demo\bin\Debug\netcoreapp3.1\Rastreador.Demo.pdb
+D:\Aplicaciones General\RastreadorWeb\Rastreador.Demo\obj\Debug\netcoreapp3.1\Rastreador.Demo.csprojAssemblyReference.cache
+D:\Aplicaciones General\RastreadorWeb\Rastreador.Demo\obj\Debug\netcoreapp3.1\Rastreador.Demo.AssemblyInfoInputs.cache
+D:\Aplicaciones General\RastreadorWeb\Rastreador.Demo\obj\Debug\netcoreapp3.1\Rastreador.Demo.AssemblyInfo.cs
+D:\Aplicaciones General\RastreadorWeb\Rastreador.Demo\obj\Debug\netcoreapp3.1\Rastreador.Demo.csproj.CoreCompileInputs.cache
+D:\Aplicaciones General\RastreadorWeb\Rastreador.Demo\obj\Debug\netcoreapp3.1\Rastreador.Demo.dll
+D:\Aplicaciones General\RastreadorWeb\Rastreador.Demo\obj\Debug\netcoreapp3.1\Rastreador.Demo.pdb
+D:\Aplicaciones General\RastreadorWeb\Rastreador.Demo\obj\Debug\netcoreapp3.1\Rastreador.Demo.genruntimeconfig.cache
+D:\Aplicaciones General\RastreadorWeb\Rastreador.Demo\bin\Debug\netcoreapp3.1\HtmlAgilityPack.dll
+D:\Aplicaciones General\RastreadorWeb\Rastreador.Demo\bin\Debug\netcoreapp3.1\Rastreador.dll
+D:\Aplicaciones General\RastreadorWeb\Rastreador.Demo\bin\Debug\netcoreapp3.1\Rastreador.pdb
+D:\Aplicaciones General\RastreadorWeb\Rastreador.Demo\obj\Debug\netcoreapp3.1\Rastreador.Demo.csproj.CopyComplete

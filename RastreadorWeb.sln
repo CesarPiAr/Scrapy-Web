@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rastreador", "Rastreador\Rastreador.csproj", "{F60FC5B5-1400-4739-9365-111E3863297F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rastreador.Demo", "Rastreador.Demo\Rastreador.Demo.csproj", "{30FA228E-DDC5-4613-AC58-BC311D326C67}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F60FC5B5-1400-4739-9365-111E3863297F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F60FC5B5-1400-4739-9365-111E3863297F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F60FC5B5-1400-4739-9365-111E3863297F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F60FC5B5-1400-4739-9365-111E3863297F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{30FA228E-DDC5-4613-AC58-BC311D326C67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30FA228E-DDC5-4613-AC58-BC311D326C67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30FA228E-DDC5-4613-AC58-BC311D326C67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30FA228E-DDC5-4613-AC58-BC311D326C67}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {18F0110F-142E-44DE-8329-03A76819AF7B}
+	EndGlobalSection
+EndGlobal
