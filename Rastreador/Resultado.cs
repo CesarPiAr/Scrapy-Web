@@ -25,6 +25,8 @@ namespace Rastreador
             } 
         }
 
+        public string ObtenHtml { get { return this.html; } }
+
         public string ObtenMetaDato(string nombreMetaDato) 
         {
             return Extraccion.ExtraeMetaDato(this.html, nombreMetaDato);

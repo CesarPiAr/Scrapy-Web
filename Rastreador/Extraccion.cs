@@ -23,13 +23,11 @@ namespace Rastreador
                     documentoHtml.LoadHtml(html);
 
                     HtmlNode nodo = documentoHtml.DocumentNode.SelectSingleNode("//meta[@charset]");
-                    codificacion = nodo.Attributes["charset"].Value;
-
+                    if (nodo != null)
+                        codificacion = nodo.Attributes["charset"].Value;
                 }
-                catch (Exception)
+                catch
                 {
-
-                    throw;
                 }
             }
 
