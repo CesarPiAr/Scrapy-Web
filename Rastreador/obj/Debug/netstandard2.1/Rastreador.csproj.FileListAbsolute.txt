@@ -1,9 +1,0 @@
-D:\Aplicaciones General\RastreadorWeb\Rastreador\bin\Debug\netstandard2.1\Rastreador.deps.json
-D:\Aplicaciones General\RastreadorWeb\Rastreador\bin\Debug\netstandard2.1\Rastreador.dll
-D:\Aplicaciones General\RastreadorWeb\Rastreador\bin\Debug\netstandard2.1\Rastreador.pdb
-D:\Aplicaciones General\RastreadorWeb\Rastreador\obj\Debug\netstandard2.1\Rastreador.csprojAssemblyReference.cache
-D:\Aplicaciones General\RastreadorWeb\Rastreador\obj\Debug\netstandard2.1\Rastreador.AssemblyInfoInputs.cache
-D:\Aplicaciones General\RastreadorWeb\Rastreador\obj\Debug\netstandard2.1\Rastreador.AssemblyInfo.cs
-D:\Aplicaciones General\RastreadorWeb\Rastreador\obj\Debug\netstandard2.1\Rastreador.csproj.CoreCompileInputs.cache
-D:\Aplicaciones General\RastreadorWeb\Rastreador\obj\Debug\netstandard2.1\Rastreador.dll
-D:\Aplicaciones General\RastreadorWeb\Rastreador\obj\Debug\netstandard2.1\Rastreador.pdb
